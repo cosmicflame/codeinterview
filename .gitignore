@@ -1,6 +1,9 @@
 # IntelliJ
-*.img
+*.iml
 .idea/*
+
+#Node
+node_modules/*
 
 #################
 ## Eclipse
